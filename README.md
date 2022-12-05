@@ -1,0 +1,2 @@
+# CashRegisterManager
+Created with CodeSandbox

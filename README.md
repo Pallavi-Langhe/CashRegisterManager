@@ -1,2 +1,2 @@
 # CashRegisterManager
-Created with CodeSandbox
+Created with CodeSandbox -: https://cash-register9860.netlify.app/
